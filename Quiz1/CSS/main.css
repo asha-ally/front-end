@@ -1,0 +1,31 @@
+
+h1{color: black;
+   border-width: 5px;
+   background-color: purple;
+  border-color: white;
+   border-style: solid;
+    padding: 40px;
+    text-align: center;
+    font-family: Algerian;
+   border-color: white;
+}
+
+body{background-color: white;}
+
+header{background-color: white;}
+.text{
+   background-color: pink;
+   width: 400px;
+    margin: 0 auto;
+}
+
+header ul li{
+	display: inline-block;
+    padding-right: 10px;
+    }
+    	
+header ul{text-align:right;}
+
+.text img{opacity: 0.2;
+text-align: center;}
+body style{opacity: 0.2;}
